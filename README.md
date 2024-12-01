@@ -1,25 +1,42 @@
-🧑‍💻 Richard Hývl
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
+</div>
 
-Student IT, webový vývojář, fanoušek šachu a dobrodruh v programování.
-📖 O mně
+# 🧑‍💻 Richard Hývl
+Student IT, webový vývojář, fanoušek šachu.
 
-Ahoj! Jmenuji se Richard a jsem studentem oboru Softwarové inženýrství na SPŠE Pardubice. Baví mě hledat elegantní řešení problémů, ať už jde o kód nebo o tah na šachovnici. Pracuji na částečný úvazek jako webový vývojář (frontend i backend) a jsem vždy připraven naučit se něco nového.
+## 📖 O mně
 
-    🚀 Erasmus zkušenost: Pracoval jsem ve Španělsku na projektech zaměřených na blockchain a kybernetickou bezpečnost.
-    🌍 Technologie: Rád kombinuji kreativitu frontendového designu s logikou backendu.
+Ahoj! Jmenuji se Richard (ale rikaji mi Pata :-)) a jsem studentem oboru 18-20-M/01 Informační technologie - Vývoj aplikací a webu na SPSE a VOS Pardubice. 
+Vetsinu me praxe zatim tvori skolni projekty z webovych stranek a jednoduchych aplikaci v Jave, JavaSciptu a PHP, ale neco jsem si vyzkousel i mimo skolu.
+Praxe ve skole:
+    Rozcestnik - rozcestnik se vsemi webovymi strankami, ktere jsou praci na skole ([odkaz zde]())
+Praxe mimo skolu:
+    💼 Brigada u PekneWeby.cz - letni brigada ve firme [Pekne weby](https://www.pekneweby.cz/), ve ktere jsem pomahal s kompletni rekonstrukci (jak z IT stranky - front-end, back-end stranky, tak z te manualni - michani betonu a vozeni kolecek s piskem) restaurace [U Sladovny v Chrudimi](https://www.usladovnychrudim.cz/) 
+    🚀 Erasmus+ - prace ve spanelske firme [ByEvolution](https://byevolution.com/), ktera se zaobira blockchainem a kybernetickou bezpecnosti
+    🏆 Souteze a certifikaty - ucastnil jsem se v mnoha IT a matematickych soutezi (mezi ne patri [IT-Slot](https://www.it-slot.cz/results/year/2021), hackathon AstroPI, bobrik informatiky, matematicka olympiada) a take certifikatu (od Cisca a ECDL)
 
-💻 Technologie, které ovládám
+Mezi moje konicky ale nepatri jen programovani, ale take sachy, kde uz v 8 letech jsem v mestskem turnaji porazel stredoskolaky. Momentalne jsem jen aktivni online - na strance www.chess.com, ale planuji zacit i s normalnimi turnaji.
 
-    Frontend: HTML5, CSS3, JavaScript (Alpine.js), Bootstrap.
-    Backend: PHP, Symfony
-    Databáze: SQL (a řešení dotazů).
-    Nástroje: Git, VS Code, Linux (Linux Mint, Kali).
+## 💻 Technologie, které ovládám
+### Frontend 
+- HTML5
+- CSS3
+- Bootstrap
+- JavaScript 
+- Alpine.js
 
-♟ Koníčky a zájmy
+### Backend
+- PHP 
+- Symfony
+- SQL
 
-    Šachy: Miluju strategii a hledání optimálních tahů (jako v životě i programování).
-    Webový vývoj: Rád prozkoumávám nové technologie a trendy v programování.
-    Cestování: Díky Erasmu jsem si oblíbil poznávání nových kultur.
+### Nástroje 
+- VS Code
+- Git + GitHub
+- Linux (Linux Mint, Kali).
+- Umela inteligence (ChatGPT, Copilot, Firefly)
+- Office 365 pro dokumentaci/prezentaci kodu (Word, PowerPoint, Excel) - vcetne certifikatu ECDL
 
 📫 Kontakt
 
@@ -29,4 +46,7 @@ Ahoj! Jmenuji se Richard a jsem studentem oboru Softwarové inženýrství na SP
 
 📜 Motto
 
-"Stejně jako v šachu i v kódování vede každá malá chyba k velkým důsledkům. Zlepšuj se tah po tahu."
+"Kdo umre,
+nez umre,
+neumre,
+kdyz umre"
