@@ -21,9 +21,9 @@ Student IT, webový vývojář, fanoušek šachu.
 
 Ahoj! Jmenuji se Richard (ale rikaji mi Pata :-)) a jsem studentem oboru 18-20-M/01 Informační technologie - Vývoj aplikací a webu na SPSE a VOS Pardubice. 
 Vetsinu me praxe zatim tvori skolni projekty z webovych stranek a jednoduchych aplikaci v Jave, JavaSciptu a PHP, ale neco jsem si vyzkousel i mimo skolu.
-Praxe ve skole:
+### Praxe ve skole:
     Rozcestnik - rozcestnik se vsemi webovymi strankami, ktere jsou praci na skole ([odkaz zde]())
-Praxe mimo skolu:
+### Praxe mimo skolu:
     💼 Brigada u PekneWeby.cz - letni brigada ve firme [Pekne weby](https://www.pekneweby.cz/), ve ktere jsem pomahal s kompletni rekonstrukci (jak z IT stranky - front-end, back-end stranky, tak z te manualni - michani betonu a vozeni kolecek s piskem) restaurace [U Sladovny v Chrudimi](https://www.usladovnychrudim.cz/) 
     🚀 Erasmus+ - prace ve spanelske firme [ByEvolution](https://byevolution.com/), ktera se zaobira blockchainem a kybernetickou bezpecnosti
     🏆 Souteze a certifikaty - ucastnil jsem se v mnoha IT a matematickych soutezi (mezi ne patri [IT-Slot](https://www.it-slot.cz/results/year/2021), hackathon AstroPI, bobrik informatiky, matematicka olympiada) a take certifikatu (od Cisca a ECDL)
